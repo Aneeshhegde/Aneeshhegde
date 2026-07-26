@@ -1,18 +1,19 @@
 <div align="center">
-  <img width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzI4aDQ0c2QxbzhiMnRvdmRjZnR3YXIxeDllczczb3JpMWtrbWlpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="coding">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hi%20👋,%20I'm%20Aneesh%20V%20Hegde&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Java%20•%20Spring%20Boot%20•%20MySQL&descAlignY=58&descSize=18" width="100%">
 </div>
 
-<h1 align="center">Hi 👋, I'm 𝙰𝙽𝙴𝙴𝚂𝙷 𝚅 𝙷𝙴𝙶𝙳𝙴</h1>
-<h3 align="center">An aspiring Backend Developer from Bangalore, India 🇮🇳</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+MySQL;Building+Digital+Mart+-+E-Commerce+Platform;Open+to+Opportunities+%F0%9F%92%BC&font=Fira%20Code&center=true&width=550&height=45&color=8E2DE2&vCenter=true&size=22">
+</p>
 
-<p align="left">
+<p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
 
 ### 🙋‍♂️ About Me
 - 👨‍🎓 Studying B.E. in Information Science & Engineering at <a href="https://www.drait.edu.in/">**Dr. Ambedkar Institute of Technology, Bangalore**</a> (2023–2027)
 
-- 💼 Currently learning **Spring Boot** while building full-stack backend applications
+- 💼 Currently learning **Spring Boot & Spring Security** while building full-stack backend applications
 
 - 🔭 Working on **Digital Mart** – a full-stack e-commerce platform (Spring Boot + React + MySQL)
 
@@ -26,37 +27,57 @@
 
 - 📫 Reach me at **aneeshhegde33@gmail.com**
 
-<p align="left">
+<p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
+
 <div align="center">
-<p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg" alt="maven" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-</p>
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Backend & Frameworks**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools & Platforms**
+
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 </div>
 
-<p align="left">
+<p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
 
 ## 🏆 Aneesh's GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Aneeshhegde&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
 
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
@@ -65,15 +86,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Aneesh's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true" alt="Aneesh's GitHub streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aneeshhegde&show_icons=true&theme=radical&hide_border=true" alt="Aneesh's GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aneeshhegde&theme=radical&hide_border=true" alt="Aneesh's GitHub streak" width="48%"/>
 </p>
 
-## Contribution Graph
+## 📈 Contribution Graph
 
-[![Aneesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=282a35&color=ffffff&line=ec7696&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
 
-<p align="left">
+[![Aneesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aneeshhegde&bg_color=282a35&color=ffffff&line=ec7696&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
 
@@ -84,7 +109,7 @@
 - **Smart Lost and Found System** – MERN stack campus portal with JWT authentication and optimized MongoDB queries
 - **BMTC Bus Demand Prediction** – Random Forest model in Python/Scikit-Learn for passenger demand forecasting
 
-<p align="left">
+<p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
 
@@ -95,36 +120,19 @@
 - MERN Stack Development (Udemy)
 - Spring Boot Course (Udemy) – *In Progress*
 
-<p align="left">
+<p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
 
 ## 👋 Connect With Me
 
 <div align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://github.com/YOUR-GITHUB-USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
-<a href="https://leetcode.com/YOUR-LEETCODE-USERNAME" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon-original.svg" alt="leetcode" height="30" width="40" /></a>
-<a href="mailto:aneeshhegde33@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneesh-v-hegde-bb5a22298)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aneeshhegde)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ANEESHHEGDE/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aneeshhegde33@gmail.com)
+
 </div>
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
-</p>
-
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>## Hi there 👋
-
-<!--
-**Aneeshhegde/Aneeshhegde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/>
