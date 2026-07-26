@@ -84,7 +84,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aneeshhegde&show_icons=true&theme=radical&hide_border=true" alt="Aneesh's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aneeshhegde&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="Aneesh's GitHub stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aneeshhegde&theme=radical&hide_border=true" alt="Aneesh's GitHub streak" width="48%"/>
 </p>
 
