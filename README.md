@@ -19,8 +19,6 @@
 
 - 🌱 Sharpening my skills in **Java, DSA, REST APIs & DBMS**
 
-- 🎯 Selected for **TCS Digital** through campus recruitment
-
 - 🏆 Finalist – **ASTRAVA National Hackathon 2026**
 
 - 🎵 When I'm not coding: Tabla, Hindustani Classical Music & Badminton
